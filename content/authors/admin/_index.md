@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Senior Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Chicago
-    url: https://economics.uchicago.edu/
+  - name: Charles River Associates
+    url: https://www.crai.com/
     
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics
-  - Innovation
   - Industrial Organization
+  - Antitrust Economics
+  - Innovation
 
 # Education to show in About widget
 education:
@@ -67,20 +67,18 @@ social:
   #   link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xiaoyangli@uchicago.edu'
+    link: 'mailto:xiaoyangli@crai.com'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xiaoyangli314/
  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiaoyangli@uchicago.edu'
+email: 'xiaoyangli@crai.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Chicago. My research focuses on macroeconomics/growth, innovation, and industrial organization. 
-
-I will be on the job market during the 2024–25 academic year.
+Welcome! I am an economist at Charles River Associates in the Antitrust and Competition practice. My main research interests are in industrial organization, antitrust economics, and innovation. I received my Ph.D. in Economics from the University of Chicago in June 2025.
 {style="text-align: justify;"}
